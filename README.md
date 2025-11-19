@@ -1,77 +1,73 @@
-# Olá 👋, eu sou JBOliveira-pt
+# Hi 👋, I'm JBOliveira-pt
 
-Bem-vindo ao meu perfil! Aqui está uma visão rápida do que faço, projetos em destaque e como me encontrar.
-
----
-
-## Sobre mim
-Sou desenvolvedor(a) focado(a) em desenvolvimento web, automação e boas práticas de engenharia de software. Gosto de construir projetos que entreguem valor real e de compartilhar conhecimento em open source.
-
-- 🔭 Atualmente trabalhando em: projeto-exemplo
-- 🌱 Estudando: TypeScript, DevOps e Data Engineering
-- 👯 Aberto(a) a colaborar em: aplicações web, infra-as-code e automações
-- 💬 Pergunte-me sobre: JavaScript, Node.js, CI/CD
-- 📫 Contato: jbo@example.com
+Welcome to my GitHub profile. Below is a concise overview of my professional focus, highlighted repositories, technical stats, and ways to get in touch.
 
 ---
 
-### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://linkedin.com/in/seu-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-@SEU_TWITTER-blue?logo=twitter)](https://twitter.com/SEU_TWITTER)
+## About Me
+I am a Software Engineer specializing in web development, automation, and software engineering best practices. I design and implement production-ready systems, RESTful APIs, CI/CD pipelines, and infrastructure-as-code. I contribute to open-source projects and enjoy mentoring and knowledge sharing.
+
+- 🔭 Currently working on: project-example
+- 🌱 Learning / deepening: TypeScript, Kubernetes, Cloud-native architectures, Observability
+- 👯 Open to collaborate on: microservices, infrastructure-as-code, automation and DevOps tooling
+- 💬 Ask me about: Node.js, TypeScript, CI/CD, Docker, Kubernetes, observability (Prometheus/Grafana)
+- 📫 Contact: jbo@example.com
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_TWITTER-blue?logo=twitter)](https://twitter.com/YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/Email-jbo%40example.com-red?logo=gmail)](mailto:jbo@example.com)
 
 ---
 
-### 🚀 Destaques / Projetos
-(Escolhe até 6 repositórios para destacar abaixo — substitui os placeholders pelos links reais)
+### 🚀 Featured Projects
+(Replace the placeholders below with up to 6 repository links and short technical summaries.)
 
-- [repo-destaque-1](https://github.com/JBOliveira-pt/repo-destaque-1) — descrição curta do que faz (ex.: API REST para X)
-- [repo-destaque-2](https://github.com/JBOliveira-pt/repo-destaque-2) — descrição curta (ex.: frontend em React)
-- [repo-destaque-3](https://github.com/JBOliveira-pt/repo-destaque-3) — descrição curta (ex.: automação CI/CD)
-- [repo-destaque-4](https://github.com/JBOliveira-pt/repo-destaque-4) — descrição curta
-- [repo-destaque-5](https://github.com/JBOliveira-pt/repo-destaque-5) — descrição curta
-- [repo-destaque-6](https://github.com/JBOliveira-pt/repo-destaque-6) — descrição curta
+- [repo-feature-1](https://github.com/JBOliveira-pt/repo-feature-1) — Backend REST API (Node.js, Express) with JWT auth and PostgreSQL
+- [repo-feature-2](https://github.com/JBOliveira-pt/repo-feature-2) — Frontend SPA (React + TypeScript) with CI/CD and E2E tests
+- [repo-feature-3](https://github.com/JBOliveira-pt/repo-feature-3) — CI/CD automation workflows and deployment scripts (GitHub Actions)
+- [repo-feature-4](https://github.com/JBOliveira-pt/repo-feature-4) — Infrastructure as Code (Terraform) for cloud provisioning
+- [repo-feature-5](https://github.com/JBOliveira-pt/repo-feature-5) — Containerized microservices (Docker + Kubernetes manifests / Helm)
+- [repo-feature-6](https://github.com/JBOliveira-pt/repo-feature-6) — Observability stack examples (Prometheus, Grafana, logging)
 
-Dica: para que esses projetos também apareçam como "pinned" no teu perfil, vai em "Customize profile" → "Pinned repositories" e seleciona os mesmos repositórios.
-
----
-
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JBOliveira-pt&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBOliveira-pt&layout=compact&theme=radical" alt="top langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JBOliveira-pt&theme=juicy" alt="trophy" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBOliveira-pt&theme=dark" alt="streak" />
-</p>
+Tip: to show these repositories as pinned on your profile header, go to "Customize profile" → "Pinned repositories" and select up to 6 repos.
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JBOliveira-pt&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBOliveira-pt&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=JBOliveira-pt&theme=juicy" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBOliveira-pt&theme=dark" alt="contribution streak" />
+</p>
+
+---
+
+### 🧰 Tech & Tooling
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
 
 ---
 
-### 📝 Blog / Publicações
-- [Último post 1](#) — resumo curto
-- [Último post 2](#) — resumo curto
+### 📝 Blog / Articles
+- [Recent post 1](#) — short summary
+- [Recent post 2](#) — short summary
 
 ---
 
-Se queres que eu personalize este README com:
-- os links reais dos teus repositórios em Destaques, e/ou
-- o teu nome completo, bio curta, e contatos reais,
+If you'd like, I can:
+- replace the featured-project placeholders with the actual repository links and concise technical summaries (send me up to 6 repo names or links),
+- or commit this README directly to your github.com/JBOliveira-pt repository (I can provide exact git commands you can run, or create the commit if you authorize).
 
-envia aqui:
-1) Nome completo (opcional),
-2) Bio curta (1–2 linhas),
-3) Até 6 repositórios (nome ou link) que queres destacar,
-4) Links de LinkedIn / Twitter / Email (se quiseres mostrar).
-
-Depois eu te retorno com o README já preenchido e pronto para colar/commitar.
+Thanks — tell me which repositories and contact details you'd like me to insert, and I'll finalize the README in English for you.
