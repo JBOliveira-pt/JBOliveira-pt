@@ -16,7 +16,7 @@ My most recent experience includes supporting data-migration projects via the An
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jeisonbr-pt)
-[![Email](https://img.shields.io/badge/Email-jbo%40example.com-red?logo=gmail)](mailto:jeisonbr.pt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jeisonbr.pt%40gmail.com-red?logo=gmail)](mailto:jeisonbr.pt@gmail.com)
 
 ---
 
