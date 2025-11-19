@@ -30,31 +30,12 @@ My most recent experience includes supporting data-migration projects via the An
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JBOliveira-pt&theme=juicy" alt="trophies" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBOliveira-pt&theme=dark" alt="contribution streak" />
 </p>
 
 ---
 
-### 🧰 Tech & Tooling
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
+### 🧰 Tech & Tooling 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
-
----
-
-### 📝 Blog / Articles
-- [Recent post 1](#) — short summary
-- [Recent post 2](#) — short summary
-
----
-
-If you'd like, I can:
-- replace the featured-project placeholders with the actual repository links and concise technical summaries (send me up to 6 repo names or links),
-- or commit this README directly to your github.com/JBOliveira-pt repository (I can provide exact git commands you can run, or create the commit if you authorize).
-
-Thanks — tell me which repositories and contact details you'd like me to insert, and I'll finalize the README in English for you.
