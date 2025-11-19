@@ -14,17 +14,11 @@ My most recent experience includes supporting data-migration projects via the An
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jeisonbr-pt)
-[![Email](https://img.shields.io/badge/Email-jeisonbr.pt%40gmail.com-red?logo=gmail)](mailto:jeisonbr.pt@gmail.com)
-
----
-
 ### 🚀 Featured Projects
 
-- [repo-feature-1](https://github.com/JBOliveira-pt/portfolio) — My Portfolio
-- [repo-feature-2](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge
-- [repo-feature-3](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags.
+- [Portfolio](https://github.com/JBOliveira-pt/portfolio) — My Portfolio
+- [S.Inc](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge
+- [PsiAlineLima](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags.
 
 
 ---
