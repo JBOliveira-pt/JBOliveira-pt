@@ -1,38 +1,31 @@
-# Hi 👋, I'm JBOliveira-pt
+# Hi 👋, I'm Jeison Oliveira!
 
 Welcome to my GitHub profile. Below is a concise overview of my professional focus, highlighted repositories, technical stats, and ways to get in touch.
 
 ---
 
 ## About Me
-I am a Software Engineer specializing in web development, automation, and software engineering best practices. I design and implement production-ready systems, RESTful APIs, CI/CD pipelines, and infrastructure-as-code. I contribute to open-source projects and enjoy mentoring and knowledge sharing.
+I deepened my technical expertise through specialized training at the University Institute of Lisbon – ISCTE, obtaining a Java programming certification. During that period I designed a Personal Finance Management System using IntelliJ (Java / OOP) and developed a robust information system powered by MySQL. I also authored a technical report and built a Spring Boot application, managed via Jira and designed in Figma.
 
-- 🔭 Currently working on: project-example
-- 🌱 Learning / deepening: TypeScript, Kubernetes, Cloud-native architectures, Observability
-- 👯 Open to collaborate on: microservices, infrastructure-as-code, automation and DevOps tooling
-- 💬 Ask me about: Node.js, TypeScript, CI/CD, Docker, Kubernetes, observability (Prometheus/Grafana)
-- 📫 Contact: jbo@example.com
+My most recent experience includes supporting data-migration projects via the Anypoint Platform (MuleSoft) and working in Agile teams using Azure DevOps. I hold certifications from Microsoft (Azure Fundamentals) and Google (Cloud Digital Leader) — reinforcing my commitment to staying at the forefront of cloud technologies.
+
+- 🌱 Learning: Java, HTML, CSS 
+- 📫 Contact: jeisonbr.pt@gmail.com
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_TWITTER-blue?logo=twitter)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-jbo%40example.com-red?logo=gmail)](mailto:jbo@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/jeisonbr-pt)
+[![Email](https://img.shields.io/badge/Email-jbo%40example.com-red?logo=gmail)](mailto:jeisonbr.pt@gmail.com)
 
 ---
 
 ### 🚀 Featured Projects
-(Replace the placeholders below with up to 6 repository links and short technical summaries.)
 
-- [repo-feature-1](https://github.com/JBOliveira-pt/repo-feature-1) — Backend REST API (Node.js, Express) with JWT auth and PostgreSQL
-- [repo-feature-2](https://github.com/JBOliveira-pt/repo-feature-2) — Frontend SPA (React + TypeScript) with CI/CD and E2E tests
-- [repo-feature-3](https://github.com/JBOliveira-pt/repo-feature-3) — CI/CD automation workflows and deployment scripts (GitHub Actions)
-- [repo-feature-4](https://github.com/JBOliveira-pt/repo-feature-4) — Infrastructure as Code (Terraform) for cloud provisioning
-- [repo-feature-5](https://github.com/JBOliveira-pt/repo-feature-5) — Containerized microservices (Docker + Kubernetes manifests / Helm)
-- [repo-feature-6](https://github.com/JBOliveira-pt/repo-feature-6) — Observability stack examples (Prometheus, Grafana, logging)
+- [repo-feature-1](https://github.com/JBOliveira-pt/portfolio) — My Portfolio
+- [repo-feature-2](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge
+- [repo-feature-3](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags.
 
-Tip: to show these repositories as pinned on your profile header, go to "Customize profile" → "Pinned repositories" and select up to 6 repos.
 
 ---
 
