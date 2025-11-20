@@ -29,10 +29,6 @@ My most recent experience includes supporting data-migration projects via the An
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBOliveira-pt&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JBOliveira-pt&theme=dark" alt="contribution streak" />
-</p>
-
 ---
 
 ### 🧰 Skills & Technologies
