@@ -33,7 +33,7 @@ My most recent experience includes supporting data-migration projects via the An
 ### 🧰 Skills & Technologies
 
 Languages & Frameworks:  
-<div style="display: flex; justify-content: start;">
+<div style="display: flex; justify-content: start; margin-bottom: 1.5rem;">
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /></a> 
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>  
