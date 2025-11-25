@@ -33,7 +33,7 @@ My most recent experience includes supporting data-migration projects via the An
 ### 🧰 Skills & Technologies
 
 Languages & Frameworks:  
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> 
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /></a> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" /> 
