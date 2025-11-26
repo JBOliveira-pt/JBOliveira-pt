@@ -8,9 +8,8 @@ Welcome to my GitHub profile. Below is a concise overview of my professional foc
 I deepened my technical expertise through specialized training at the University Institute of Lisbon – ISCTE, obtaining a Java programming certification. During that period I designed a Personal Finance Management System using IntelliJ (Java / OOP) and developed a robust information system powered by MySQL. I also authored a technical report and built a Spring Boot application, managed via Jira and designed in Figma.
 
 My most recent experience includes supporting data-migration projects via the Anypoint Platform (MuleSoft) and working in Agile teams using Azure DevOps. I hold certifications from Microsoft (Azure Fundamentals) and Google (Cloud Digital Leader) — reinforcing my commitment to staying at the forefront of cloud technologies.
-
-- 🌱 Learning: Java, HTML, CSS 
-- 📫 Contact: jeisonbr.pt@gmail.com
+ 
+📫 Contact: jeisonbr.pt@gmail.com
 
 ---
 
