@@ -33,7 +33,7 @@ My most recent experience includes supporting data-migration projects via the An
 ### 🧰 Skills & Technologies
 
 Languages & Frameworks:  
-<div style="display: flex; justify-content: start; padding-bottom: 3%">
+<div style="display: flex; justify-content: start;">
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /></a> 
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>  
@@ -42,17 +42,23 @@ Languages & Frameworks:
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /></a> 
 </div>
 
-Databases & Tools:  
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Jira-0065FF?logo=jira&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white" /></a> 
+Databases & Tools:
+<div style="display: flex; justify-content: start;">
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/Jira-0065FF?logo=jira&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white" /></a> 
+</div>
 
-Cloud & Integration:  
-<a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D4?logo=azuredevops&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Anypoint_Platform-6CACE4?logo=mulesoft&logoColor=white" /></a> 
+Cloud & Integration:
+<div style="display: flex; justify-content: start;">
+  <a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D4?logo=azuredevops&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/Anypoint_Platform-6CACE4?logo=mulesoft&logoColor=white" /></a> 
+</div>
 
 Design & UX:  
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>  
-<a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" /></a> 
+<div style="display: flex; justify-content: start;">
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" /></a> 
+</div>
