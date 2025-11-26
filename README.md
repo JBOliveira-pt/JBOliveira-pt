@@ -29,7 +29,7 @@ My most recent experience includes supporting data-migration projects via the An
 
 ---
 
-### 🧰 Skills & Technologies
+## 🧰 Skills & Technologies
 
 Languages & Frameworks:  
 <div style="display: flex; justify-content: start;">
