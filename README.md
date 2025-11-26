@@ -42,6 +42,8 @@ Languages & Frameworks:
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /></a> 
 </div>
 
+</br>
+
 Databases & Tools:
 <div style="display: flex; justify-content: start;">
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>  
@@ -50,6 +52,8 @@ Databases & Tools:
   <a href="#"><img src="https://img.shields.io/badge/Jira-0065FF?logo=jira&logoColor=white" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white" /></a> 
 </div>
+
+</br>
 
 Cloud & Integration:
 <div style="display: flex; justify-content: start;">
