@@ -61,6 +61,8 @@ Cloud & Integration:
   <a href="#"><img src="https://img.shields.io/badge/Anypoint_Platform-6CACE4?logo=mulesoft&logoColor=white" /></a> 
 </div>
 
+</br>
+
 Design & UX:  
 <div style="display: flex; justify-content: start;">
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>  
