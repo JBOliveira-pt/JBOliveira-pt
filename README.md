@@ -34,8 +34,7 @@ My most recent experience includes supporting data-migration projects via the An
 Languages & Frameworks:  
 <div style="display: flex; justify-content: start;">
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /></a> 
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>  
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a> 
   <a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /></a> 
