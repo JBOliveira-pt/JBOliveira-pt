@@ -24,7 +24,7 @@ My most recent experience includes supporting data-migration projects via the An
 
 ## 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBOliveira-pt&hide=javascript,css,scss,html&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBOliveira-pt&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
