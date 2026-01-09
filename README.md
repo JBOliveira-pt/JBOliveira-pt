@@ -18,7 +18,7 @@ My most recent experience includes supporting data-migration projects via the An
 - [Portfolio](https://github.com/JBOliveira-pt/portfolio) — My Portfolio
 - [S.Inc](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge
 - [PsiAlineLima](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags.
-
+- [MyJavascriptGames](https://jboliveira-pt.github.io/javascriptgames/) — Six games developed during the Software Developer – CESAE Digital program.
 
 ---
 
