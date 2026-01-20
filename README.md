@@ -50,8 +50,7 @@ Cloud & Integration:
 <div style="display: flex; justify-content: start;">
   <a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D4?logo=azuredevops&logoColor=white" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/Anypoint_Platform-6CACE4?logo=mulesoft&logoColor=white" /></a> 
- <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+  <img href="#" width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
 </div>
 
 </br>
