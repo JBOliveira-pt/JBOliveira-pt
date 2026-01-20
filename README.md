@@ -41,11 +41,15 @@ Languages & Frameworks:
 
 Databases & Tools:
 <div style="display: flex; justify-content: start;">
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/Jira-0065FF?logo=jira&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white" /></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/> 
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
+  <img width="12"/>
+  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="intellij logo"/>
+  <img width="12"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"/>
+  <img width="12"/> 
+  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" alt="jira logo"/>
 </div>
 
 </br>
