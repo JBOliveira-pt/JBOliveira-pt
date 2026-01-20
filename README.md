@@ -69,7 +69,7 @@ Cloud & Integration:
 
 Design & UX:  
 <div style="display:  flex; justify-content: start;">
-  <span title="Figma" style="pointer-events: none; cursor: default;><img src="https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1729268241679" height="40" alt="figma logo"/></span>
+  <span title="Figma"><img src="https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1729268241679" height="40" alt="figma logo" style="pointer-events: none; cursor: default;"/></span>
   <img width="12"/>
-  <span title="Canva" style="pointer-events: none; cursor: default;><img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1725863496299" height="40" alt="canva logo"/></span>
+  <span title="Canva"><img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1725863496299" height="40" alt="canva logo" style="pointer-events: none; cursor: default;"/></span>
 </div>
