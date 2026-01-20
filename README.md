@@ -69,6 +69,7 @@ Cloud & Integration:
 
 Design & UX:  
 <div style="display: flex; justify-content: start;">
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" /></a> 
+   <img src="https://cdn.brandfetch.io/idZoogB8hK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667560767192" height="40" alt="mulesoft logo"/>
+  <img width="12"/>
+  <img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1725863496299" height="40" alt="postman logo"/>
 </div>
