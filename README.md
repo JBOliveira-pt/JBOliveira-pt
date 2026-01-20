@@ -52,8 +52,9 @@ Databases & Tools:
 
 Cloud & Integration:
 <div style="display: flex; justify-content: start;">
-  <a href="#"><img src="https://img.shields.io/badge/Azure_DevOps-0078D4?logo=azuredevops&logoColor=white" /></a>  
-  <a href="#"><img src="https://img.shields.io/badge/Anypoint_Platform-6CACE4?logo=mulesoft&logoColor=white" /></a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
+  <img width="12"/> 
+  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" alt="mulesoft logo"/>
   <img width="12"/> 
   <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="mulesoft logo"/>
   <img width="12"/>
