@@ -62,7 +62,7 @@ Cloud & Integration:
   <img width="12"/> 
   <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="google cloud logo" title="Google Cloud" style="pointer-events: none;"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original. svg" height="40" alt="postman logo" title="Postman" style="pointer-events:  none;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman" style="pointer-events:  none;"/>
 </div>
 
 </br>
