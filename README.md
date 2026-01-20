@@ -41,7 +41,7 @@ Languages & Frameworks:
 
 Databases & Tools:
 <div style="display: flex; justify-content: start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original. svg" height="40" alt="mysql logo" title="MySQL" style="pointer-events: none;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" style="pointer-events: none;"/> 
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" style="pointer-events:  none;"/>
   <img width="12"/>
