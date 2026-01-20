@@ -45,11 +45,11 @@ Databases & Tools:
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" style="pointer-events:  none;"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="figma logo" title="Figma" style="pointer-events: none;"/>
+  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="visual logo" title="Visual Studio Code" style="pointer-events: none;"/>
   <img width="12"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" title="Jira" style="pointer-events: none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" alt="azure devops logo" title="Azure DevOps" style="pointer-events:  none;"/>
+  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" alt="asana logo" title="Asana" style="pointer-events:  none;"/>
 </div>
 
 </br>
@@ -58,9 +58,9 @@ Cloud & Integration:
 <div style="display: flex; justify-content: start;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Microsoft Azure" style="pointer-events:  none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" alt="mulesoft logo" title="MuleSoft" style="pointer-events: none;"/>
+  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" alt="google cloud logo" title="Google Cloud" style="pointer-events: none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="google cloud logo" title="Google Cloud" style="pointer-events: none;"/>
+  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="mulesoft logo" title="MuleSoft" style="pointer-events: none;"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman" style="pointer-events:  none;"/>
 </div>
