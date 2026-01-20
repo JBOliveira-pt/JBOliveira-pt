@@ -6,13 +6,13 @@ Welcome to my GitHub profile. Below is a concise overview of my professional foc
 
 ## About Me
 
-I am currently attending the **Software Developer program at CESAE-Digital**, a training path oriented toward the job market, with a strong focus on **Java programming**, **Object-Oriented Programming**, and modern **Web Development**, namely through **JavaScript** applied to the **React ecosystem**, particularly the **Next-JS** framework.
+I am currently attending the **Software Developer** program at **CESAE-Digital**, a training path oriented toward the job market, with a strong focus on **Java programming** (OOP) and modern **Web Development**, namely through **JavaScript** applied to the **React** ecosystem, particularly the **Next-JS** framework.
 
-Alongside the course, I have been actively working with **Neon (database)**, **React (library)** and **Next-JS (framework)** for full-stack, cloud-ready web applications.
+Alongside the course, I have been actively working with Neon (database), React (library) and Next-JS (framework) for **full-stack**, cloud-ready web applications.
 
-Before that, I deepened my technical expertise through specialized training at the **University Institute of Lisbon – ISCTE**, obtaining a **Java programming certification**. During that period I designed a **Personal Finance Management System** using IntelliJ (Java / OOP) and developed a robust information system powered by MySQL. I also authored a technical report and built a **Spring Boot** application, managed via **Jira** and designed in **Figma**.
+Before that, I deepened my technical expertise through specialized training at the **University Institute of Lisbon – ISCTE**, obtaining a **Java programming certification**. During that period I designed a Personal Finance Management System using IntelliJ (Java/OOP) and developed a robust information system powered by MySQL. I also authored a technical report and built a **Spring Boot** application, managed via **Jira** and designed in **Figma**.
 
-My most recent professional experience includes supporting **data-migration projects via the Anypoint Platform (MuleSoft)** and working in **Agile teams using Azure DevOps**. I hold certifications from **Microsoft (Azure Fundamentals)** and **Google (Cloud Digital Leader)** — reinforcing my commitment to staying at the forefront of cloud technologies.
+My most recent professional experience includes supporting data-migration projects via the **Anypoint Platform (MuleSoft)** and working in **Agile teams** using Azure DevOps. I hold certifications from **Microsoft (Azure Fundamentals)** and **Google (Cloud Digital Leader)** — reinforcing my commitment to staying at the forefront of cloud technologies.
 
 📫 Contact: **jeisonbr.pt@gmail.com**
 
@@ -23,7 +23,8 @@ My most recent professional experience includes supporting **data-migration proj
 - [Portfolio](https://github.com/JBOliveira-pt/portfolio) — My Portfolio  
 - [S.Inc](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge  
 - [PsiAlineLima](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags  
-- [MyJavascriptGames](https://jboliveira-pt.github.io/javascriptgames/) — Six games developed during the **Software Developer – CESAE Digital** program  
+- [MyJavascriptGames](https://jboliveira-pt.github.io/javascriptgames/) — Six games developed with Javascript
+- [Dashboard](https://dashboard.jbolveira-pt.vercel.app/) — Dashboard application developed with Next.js (**work in progress**)
 
 ---
 
