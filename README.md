@@ -26,43 +26,43 @@ My most recent experience includes supporting data-migration projects via the An
 
 Languages & Frameworks:  
 <div style="display: flex; justify-content: start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" style="pointer-events: none;"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring" style="pointer-events: none;"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" style="pointer-events: none;"/> 
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" style="pointer-events: none;"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" style="pointer-events: none;"/>
 </div>
 
 </br>
 
 Databases & Tools:
 <div style="display: flex; justify-content: start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original. svg" height="40" alt="mysql logo" title="MySQL" style="pointer-events: none;"/> 
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" style="pointer-events:  none;"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="intellij logo"/>
+  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="figma logo" title="Figma" style="pointer-events: none;"/>
   <img width="12"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" title="Jira" style="pointer-events: none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" alt="jira logo"/>
+  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" alt="azure devops logo" title="Azure DevOps" style="pointer-events:  none;"/>
 </div>
 
 </br>
 
 Cloud & Integration:
 <div style="display: flex; justify-content: start;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Microsoft Azure" style="pointer-events:  none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" alt="mulesoft logo"/>
+  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" alt="mulesoft logo" title="MuleSoft" style="pointer-events: none;"/>
   <img width="12"/> 
-  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="mulesoft logo"/>
+  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" alt="google cloud logo" title="Google Cloud" style="pointer-events: none;"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original. svg" height="40" alt="postman logo" title="Postman" style="pointer-events:  none;"/>
 </div>
 
 </br>
