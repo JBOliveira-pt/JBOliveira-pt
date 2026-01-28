@@ -51,6 +51,9 @@ My most recent professional experience includes supporting data-migration projec
 
 ### Databases & Tools
 <div style="display: flex; justify-content: start;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/960px-Microsoft_SQL_Server_2025_icon.svg.png" height="40" title="Microsoft SQL Management Studio"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img width="12"/>
   <img src="https://cdn.brandfetch.io/idEix_YF2n/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1766979424634" height="40" alt="neon logo" title="Neon"/>
