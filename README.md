@@ -34,8 +34,6 @@ My most recent professional experience includes supporting data-migration projec
 <div style="display: flex; justify-content: start;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
@@ -45,6 +43,8 @@ My most recent professional experience includes supporting data-migration projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring"/>
 </div>
 
 </br>
@@ -52,13 +52,13 @@ My most recent professional experience includes supporting data-migration projec
 ### Databases & Tools
 <div style="display: flex; justify-content: start;">
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/960px-Microsoft_SQL_Server_2025_icon.svg.png" height="40" title="Microsoft SQL Management Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Microsoft_SQL_Server_2025_icon.svg/960px-Microsoft_SQL_Server_2025_icon.svg.png" height="40" title="Microsoft SQL Server"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
   <img width="12"/>
   <img src="https://cdn.brandfetch.io/idEix_YF2n/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1766979424634" height="40" alt="neon logo" title="Neon"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" title="IntelliJ"/>
   <img width="12"/>
   <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" alt="visual logo" title="Visual Studio Code"/>
   <img width="12"/>
