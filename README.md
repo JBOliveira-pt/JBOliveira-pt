@@ -86,5 +86,5 @@ My most recent professional experience includes supporting data-migration projec
 <div style="display: flex; justify-content: start;">
   <img src="https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1729268241679" height="40" alt="figma logo" title="Figma"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/id9mVQlyB1/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1725863496299" height="40" alt="canva logo" title="Canva"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/032/329/175/non_2x/canva-icon-logo-symbol-free-png.png" height="40" alt="canva logo" title="Canva"/>
 </div>
