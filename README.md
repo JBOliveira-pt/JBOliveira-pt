@@ -24,7 +24,7 @@ My most recent professional experience includes supporting data-migration projec
 - [S.Inc](https://github.com/JBOliveira-pt/sinc) — A platform that fosters social interaction and enables the access, exchange, and creation of knowledge  
 - [PsiAlineLima](https://github.com/JBOliveira-pt/psialinelima) — Repository of Instagram posts from @psi_alinelima_, with search functionality based on title, date, and hashtags  
 - [MyJavascriptGames](https://jboliveira-pt.github.io/javascriptgames/) — Six games developed with Javascript
-- [Dashboard](https://dashboard.jbolveira-pt.vercel.app/) — Dashboard application developed with Next.js (**work in progress**)
+- [PrimeFlow](https://primeflow.jbolveira-pt.vercel.app/) — A finance platform developed with Next.js (**work in progress**)
 
 ---
 
