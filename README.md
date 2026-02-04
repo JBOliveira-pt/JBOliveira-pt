@@ -48,6 +48,7 @@ My most recent professional experience includes supporting data-migration projec
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework"/>
 </div>
+
 **Technologies:**  
 Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Bootstrap
 
@@ -71,6 +72,7 @@ Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Boots
   <img width="12"/>
   <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" title="Asana"/>
 </div>
+
 **Databases:**  
 Microsoft SQL Server, MySQL, Neon (PostgreSQL)
 **Tools:**  
@@ -94,6 +96,7 @@ IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
 </div>
+
 **Cloud & DevOps:**  
 Microsoft Azure, Google Cloud Platform (GCP), Vercel, GitHub Pages
 **Version Control & APIs:**  
@@ -107,5 +110,6 @@ Git, Postman, MuleSoft, REST APIs (Postman)
   <img width="12"/>
   <img src="https://static.vecteezy.com/system/resources/previews/032/329/175/non_2x/canva-icon-logo-symbol-free-png.png" height="40" title="Canva"/>
 </div>
+
 **Design Tools:**  
 Figma, Canva
