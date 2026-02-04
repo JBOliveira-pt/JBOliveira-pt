@@ -75,6 +75,7 @@ Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Boots
 
 **Databases:**  
 Microsoft SQL Server, MySQL, Neon (PostgreSQL)
+
 **Tools:**  
 IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
 
@@ -99,6 +100,7 @@ IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
 
 **Cloud & DevOps:**  
 Microsoft Azure, Google Cloud Platform (GCP), Vercel, GitHub Pages
+
 **Version Control & APIs:**  
 Git, Postman, MuleSoft, REST APIs (Postman)
 
