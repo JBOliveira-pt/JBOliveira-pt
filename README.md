@@ -72,7 +72,7 @@ Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Boots
   <img width="12"/>
   <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" title="Asana"/>
 </div>
-
+<br />
 **Databases:**  
 Microsoft SQL Server, MySQL, Neon (PostgreSQL)
 
