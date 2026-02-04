@@ -49,6 +49,8 @@ My most recent professional experience includes supporting data-migration projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework"/>
 </div>
 
+<br />
+
 **Technologies:**  
 Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Bootstrap
 
@@ -100,6 +102,8 @@ IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
 </div>
 
+<br />
+
 **Cloud & DevOps:**  
 Microsoft Azure, Google Cloud Platform (GCP), Vercel, GitHub Pages
 
@@ -114,6 +118,8 @@ Git, Postman, MuleSoft, REST APIs (Postman)
   <img width="12"/>
   <img src="https://static.vecteezy.com/system/resources/previews/032/329/175/non_2x/canva-icon-logo-symbol-free-png.png" height="40" title="Canva"/>
 </div>
+
+<br />
 
 **Design Tools:**  
 Figma, Canva
