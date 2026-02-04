@@ -36,7 +36,7 @@ My most recent professional experience includes supporting data-migration projec
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img width="12"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/](https://cdn.jsdelivr.net/gh/devicons/devicon/icons)react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next-JS"/>
   <img width="12"/>
