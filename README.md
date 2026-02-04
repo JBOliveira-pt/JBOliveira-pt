@@ -48,11 +48,10 @@ My most recent professional experience includes supporting data-migration projec
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework"/>
 </div>
-
 **Technologies:**  
 Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Bootstrap
 
----
+##
 
 ### Databases & Developer Tools
 <div style="display: flex; justify-content: start;">
@@ -62,24 +61,22 @@ Java, JavaScript (ES6+), React.js, Next.js, Spring Framework, HTML5, CSS3, Boots
   <img width="12"/>
   <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F1381%2FPNG%2F256%2Fxampp_94513.png&id=94513&pack_or_individual=pack" height="40" title="XAMPP"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idEix_YF2n/w/512/h/512/theme/dark/logo.png" height="40" title="Neon Database"/>
+  <img src="https://cdn.brandfetch.io/idEix_YF2n/w/512/h/512/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1766979424634" height="40" title="Neon Database"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" title="IntelliJ IDEA"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg" height="40" title="Visual Studio Code"/>
+  <img src="https://cdn.brandfetch.io/idUz6LJMxo/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1759155224554" height="40" title="Visual Studio Code"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" title="Jira"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg" height="40" title="Asana"/>
+  <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668515642970" height="40" title="Asana"/>
 </div>
-
 **Databases:**  
 Microsoft SQL Server, MySQL, Neon (PostgreSQL)
-
 **Tools:**  
 IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
 
----
+##
 
 ### Cloud, DevOps & Integrations
 <div style="display: flex; justify-content: start;">
@@ -89,29 +86,26 @@ IntelliJ IDEA, Visual Studio Code, XAMPP, Jira, Asana
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Microsoft Azure"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg" height="40" title="Google Cloud Platform"/>
+  <img src="https://cdn.brandfetch.io/idqwPsNkb7/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764478868191" height="40" title="Google Cloud Platform"/>
   <img width="12"/>
   <img src="https://wp.logos-download.com/wp-content/uploads/2024/03/Git_Bash_Logo.png" height="40" title="Git"/>
   <img width="12"/>
-  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg" height="40" title="MuleSoft"/>
+  <img src="https://cdn.brandfetch.io/idA6cDxrkg/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668516011298" height="40" title="MuleSoft"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman"/>
 </div>
-
 **Cloud & DevOps:**  
 Microsoft Azure, Google Cloud Platform (GCP), Vercel, GitHub Pages
-
 **Version Control & APIs:**  
-Git, Postman, MuleSoft, REST APIs
+Git, Postman, MuleSoft, REST APIs (Postman)
 
----
+##
 
 ### Design & UX (Supporting Skills)
 <div style="display: flex; justify-content: start;">
-  <img src="https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg" height="40" title="Figma"/>
+  <img src="https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1729268241679" height="40" title="Figma"/>
   <img width="12"/>
   <img src="https://static.vecteezy.com/system/resources/previews/032/329/175/non_2x/canva-icon-logo-symbol-free-png.png" height="40" title="Canva"/>
 </div>
-
 **Design Tools:**  
 Figma, Canva
