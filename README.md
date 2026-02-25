@@ -14,7 +14,7 @@ Before that, I deepened my technical expertise through specialized training at t
 
 My most recent professional experience includes supporting data-migration projects via the **Anypoint Platform (MuleSoft)** and working in **Agile teams** using Azure DevOps. I hold certifications from **Microsoft (Azure Fundamentals)** and **Google (Cloud Digital Leader)** — reinforcing my commitment to staying at the forefront of cloud technologies.
 
-📫 Contact: **jeisonbr.pt@gmail.com**
+📫 Contact: **jeisonbr.pt@outlook.pt**
 
 ---
 
