@@ -20,7 +20,7 @@ My most recent professional experience includes supporting data-migration projec
 
 ## 🚀 Featured Projects
 
-- [Portfolio](https://jboliveira-pt.github.io/portfolio/) — My Portfolio  
+- [Portfolio](https://jboliveira-portfolio.vercel.app/) — My Portfolio  
 - [S.Inc](https://jboliveira-pt.github.io/sinc/) — A platform that fosters social interaction in companies
 - [PsiAlineLima](https://jboliveira-pt.github.io/psialinelima/) — Repository of Instagram posts from @psi_alinelima_  
 - [MyJavascriptGames](https://jboliveira-pt.github.io/javascriptgames/) — Six games developed with Javascript
